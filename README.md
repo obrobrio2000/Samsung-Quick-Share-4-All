@@ -5,7 +5,7 @@ This repository includes:
 - a .ps1 PowerShell version of the script (run ad admin);
 - a .xml Task Scheduler task to make it launch at startup (check "run with highest privileges" when creating/importing the task). The task is configured to run the .bat version of the script, but you can change it to run the .ps1 one if you like.
 
-**It should work with the latest version from the Microsoft Store but, if you encounter issues, try uninstalling it and then install [this older version here](https://www.mediafire.com/file/ep7v6qbk5gmrx8i/SAMSUNGELECTRONICSCoLtd.SamsungQuickShare_1.0.78.0_neutral___wyx1vj98g3asy.Msixbundle/file)!**
+**⚠️ It should work with the latest version from the Microsoft Store but, if you encounter issues, try uninstalling it and then install [this older version here](https://www.mediafire.com/file/ep7v6qbk5gmrx8i/SAMSUNGELECTRONICSCoLtd.SamsungQuickShare_1.0.78.0_neutral___wyx1vj98g3asy.Msixbundle/file)!**
 
 # Video demonstration (Lenovo Yoga C940 <-> Note20 Ultra)
 https://user-images.githubusercontent.com/62136803/137235992-e174e102-e5c6-434a-a341-5f522dd09698.mp4
