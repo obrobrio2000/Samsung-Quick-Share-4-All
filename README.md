@@ -1,4 +1,4 @@
-# Samsung Quick Share 4All
+# Samsung Quick Share 4 All
 This tiny script makes Samsung Quick Share working on non-Samsung Windows PCs by spoofing a registry value that the program checks when opening.
 This repository includes:
 - a .bat Batch version of the script (run as admin);
