@@ -9,6 +9,8 @@ This repository includes:
 
 **⚠️ Remember that your phone's screen needs to be on and unlocked to be able to find it from your PC!**
 
+**⚠️ If your PC has a wireless/wifi/bluetooth driver which is not done by Intel (for example Broadcom/Realtek/Marvell etc.) you'll also need to apply "intel_hwid_spoof.reg"!**
+
 # Demo (Lenovo Yoga C940 <-> Note20 Ultra)
 https://user-images.githubusercontent.com/62136803/137240369-9c77621b-19ea-4893-9c69-e9b03747d89e.mp4
 
