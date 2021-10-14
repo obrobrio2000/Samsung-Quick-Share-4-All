@@ -6,7 +6,7 @@ This repository includes:
 
 To make it launch at startup, create a task in Task Scheduler (check "run with highest privileges" when creating it).
 
-**⚠️ It should work with the [latest version from the Microsoft Store](https://www.microsoft.com/en-us/p/quick-share/9pctgdfxvzlj) but, if you encounter issues, uninstall it and install [this version](https://mega.nz/file/9B4myBTS#iWj3krlMOrKTnTPfEw_qH93RoddJydzxpnPVeAgPKiQ)!**
+**⚠️ If you want the latest Store version: go [here](https://store.rg-adguard.net/), paste the [store link](https://www.microsoft.com/en-us/p/quick-share/9pctgdfxvzlj) of the app, click the checkmark and then scroll down and download the one named "SAMSUNGELECTRONICSCoLtd.SamsungQuickShare_xxxxxxxx_neutral_xxxxxxxxxxxxxxx.msixbundle". Then open it and install it. You won't need to download every update like this, it'll automatically update from the Microsoft Store when there is a new version. Keep in mind that latest versions from the Store can contain patches to this method, so if you encounter any issue download [this version here](https://mega.nz/file/9B4myBTS#iWj3krlMOrKTnTPfEw_qH93RoddJydzxpnPVeAgPKiQ) that has been reported to be more stable**
 
 **⚠️ Remember that your phone's screen needs to be on and unlocked to be able to find it from your PC (unfortunately it's a limitation of Quick Share itself)!**
 
