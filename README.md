@@ -2,12 +2,13 @@
 This tiny script makes Samsung Quick Share working on non-Samsung Windows PCs by spoofing a registry value that the program checks when opening.
 This repository includes:
 - a .bat Batch version of the script (run as admin);
-- a .ps1 PowerShell version of the script (run as admin);
+- a .ps1 PowerShell version of the script (run as admin).
+
 To make it launch at startup, create a task in Task Scheduler (check "run with highest privileges" when creating it).
 
 **⚠️ It should work with the [latest version from the Microsoft Store](https://www.microsoft.com/en-us/p/quick-share/9pctgdfxvzlj) but, if you encounter issues, uninstall it and install [this version](https://mega.nz/file/9B4myBTS#iWj3krlMOrKTnTPfEw_qH93RoddJydzxpnPVeAgPKiQ)!**
 
-**⚠️ Remember that your phone's screen needs to be on and unlocked to be able to find it from your PC!**
+**⚠️ Remember that your phone's screen needs to be on and unlocked to be able to find it from your PC (unfortunately it's a limitation of Quick Share itself)!**
 
 **⚠️ If your PC has a wireless/wifi/bluetooth driver which is not done by Intel (for example Broadcom/Realtek/Marvell etc.) you'll also need to apply "intel_hwid_spoof.reg", otherwise it won't find your phone and viceversa!**
 
