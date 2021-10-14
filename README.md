@@ -2,14 +2,14 @@
 This tiny script makes Samsung Quick Share working on non-Samsung Windows PCs by spoofing a registry value that the program checks when opening.
 This repository includes:
 - a .bat Batch version of the script (run as admin);
-- a .ps1 PowerShell version of the script (run ad admin);
-- a .xml Task Scheduler task to make it launch at startup (check "run with highest privileges" when creating/importing the task). The task is configured to run the .bat version of the script, but you can change it to run the .ps1 one if you like.
+- a .ps1 PowerShell version of the script (run as admin);
+To make it launch at startup, create a task in Task Scheduler (check "run with highest privileges" when creating it).
 
-**⚠️ It should work with the [latest version from the Microsoft Store](https://www.microsoft.com/en-us/p/quick-share/9pctgdfxvzlj?SilentAuth=1&wa=wsignin1.0&activetab=pivot:overviewtab) but, if you encounter issues, uninstall it and install [this version](https://mega.nz/file/9B4myBTS#iWj3krlMOrKTnTPfEw_qH93RoddJydzxpnPVeAgPKiQ)!**
+**⚠️ It should work with the [latest version from the Microsoft Store](https://www.microsoft.com/en-us/p/quick-share/9pctgdfxvzlj) but, if you encounter issues, uninstall it and install [this version](https://mega.nz/file/9B4myBTS#iWj3krlMOrKTnTPfEw_qH93RoddJydzxpnPVeAgPKiQ)!**
 
 **⚠️ Remember that your phone's screen needs to be on and unlocked to be able to find it from your PC!**
 
-**⚠️ If your PC has a wireless/wifi/bluetooth driver which is not done by Intel (for example Broadcom/Realtek/Marvell etc.) you'll also need to apply "intel_hwid_spoof.reg"!**
+**⚠️ If your PC has a wireless/wifi/bluetooth driver which is not done by Intel (for example Broadcom/Realtek/Marvell etc.) you'll also need to apply "intel_hwid_spoof.reg", otherwise it won't find your phone and viceversa!**
 
 # Demo (Lenovo Yoga C940 <-> Note20 Ultra)
 https://user-images.githubusercontent.com/62136803/137240369-9c77621b-19ea-4893-9c69-e9b03747d89e.mp4
