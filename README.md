@@ -7,7 +7,7 @@ This repository includes:
 
 **⚠️ It should work with the [latest version from the Microsoft Store](https://www.microsoft.com/en-us/p/quick-share/9pctgdfxvzlj?SilentAuth=1&wa=wsignin1.0&activetab=pivot:overviewtab) but, if you encounter issues, try uninstalling it and then install [this older version here](https://mega.nz/file/9B4myBTS#iWj3krlMOrKTnTPfEw_qH93RoddJydzxpnPVeAgPKiQ)!**
 
-# Video demonstration (Lenovo Yoga C940 <-> Note20 Ultra)
+# Demo (Lenovo Yoga C940 <-> Note20 Ultra)
 https://user-images.githubusercontent.com/62136803/137240369-9c77621b-19ea-4893-9c69-e9b03747d89e.mp4
 
 # Disclaimer
