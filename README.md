@@ -9,7 +9,7 @@ To make it launch at startup, create a task in Task Scheduler (check "run with h
 
 **⚠️ Remember that your phone's screen needs to be on and unlocked to be able to find it from your PC (unfortunately it's a limitation of Quick Share itself)!**
 
-**⚠️ If your PC has a non-Intel wireless/wifi/bluetooth driver (for example Broadcom/Realtek/Marvell etc.) you'll also need to apply "nonintelfix.reg", otherwise it won't find your phone and viceversa!**
+**⚠️ If your PC doesn't have an Intel AX wireless/wifi/bluetooth card (e.g. Intel AC/Broadcom/Realtek/Marvell etc.) you'll also need to apply "nonintelaxfix.reg", otherwise it won't find your phone and viceversa!**
 
 Thanks a lot to [@FrontTron](https://twitter.com/FrontTron) for testing both the script and the fix for non-Intel drivers!
 
