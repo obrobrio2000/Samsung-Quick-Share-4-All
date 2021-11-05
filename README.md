@@ -8,11 +8,11 @@ If you want the latest Store version go [here](https://store.rg-adguard.net/), p
 
 Remember that your phone's screen needs to be on and unlocked to be discoverable from your PC (unfortunately it's a limitation of Quick Share itself)!
 
-## Demo (Lenovo Yoga C940 <-> Note20 Ultra)
-https://user-images.githubusercontent.com/62136803/137240369-9c77621b-19ea-4893-9c69-e9b03747d89e.mp4
-
 ## Troubleshooting
 All should work fine just by running the .bat file, but if you're having issues try applying DriverCheckBypass.reg (just run the file, then Yes and then Ok), especially if your PC doesn't have an Intel AX wireless adapter (e.g. Intel AC/Broadcom/Realtek/Marvell etc.).
+
+## Demo (Lenovo Yoga C940 <-> Note20 Ultra)
+https://user-images.githubusercontent.com/62136803/137240369-9c77621b-19ea-4893-9c69-e9b03747d89e.mp4
 
 Keep in mind that latest versions from the Store could contain patches to this method, so if you encounter any issue download [this older version here](https://mega.nz/file/9B4myBTS#iWj3krlMOrKTnTPfEw_qH93RoddJydzxpnPVeAgPKiQ).
 
