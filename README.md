@@ -11,10 +11,10 @@ Remember that your phone's screen needs to be on and unlocked to be discoverable
 ## Troubleshooting
 All should work fine just by running the .bat file, but if you're having issues try applying DriverCheckBypass.reg (just run the file, then Yes and then Ok), especially if your PC doesn't have an Intel AX wireless adapter (e.g. Intel AC/Broadcom/Realtek/Marvell etc.).
 
+Keep in mind that latest versions from the Store could contain patches to this method, so if you encounter any issue download [this older version here](https://mega.nz/file/9B4myBTS#iWj3krlMOrKTnTPfEw_qH93RoddJydzxpnPVeAgPKiQ).
+
 ## Demo (Lenovo Yoga C940 <-> Note20 Ultra)
 https://user-images.githubusercontent.com/62136803/137240369-9c77621b-19ea-4893-9c69-e9b03747d89e.mp4
-
-Keep in mind that latest versions from the Store could contain patches to this method, so if you encounter any issue download [this older version here](https://mega.nz/file/9B4myBTS#iWj3krlMOrKTnTPfEw_qH93RoddJydzxpnPVeAgPKiQ).
 
 ## Disclaimer
 Keep in mind that Samsung could fix this any time. So, if it doesn't work, probably they have fixed it. However, as of July 1st 2021, I can confirm that it works perfectly (doesn't display the unsupported device error and file sharing works both sending and receiving). Also, I'm not responsible for any loss or damage.
