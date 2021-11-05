@@ -3,7 +3,7 @@ This tiny batch script makes Samsung Quick Share working on non-Samsung Windows 
 
 To use it, right-click on it and run as administrator. You'll only need to run it once, after that it'll automatically launch itself after every startup/reboot.
 
-The script should work on every wireless (wifi/BT) adapter out-of-the-box, but if you're having issues try applying DriverCheckBypass.reg (just run the file, then Yes and then Ok), especially if your PC doesn't have an Intel AX wireless adapter (e.g. Intel AC/Broadcom/Realtek/Marvell etc.).
+All should work fine just by running the .bat file, but if you're having issues try applying DriverCheckBypass.reg (just run the file, then Yes and then Ok), especially if your PC doesn't have an Intel AX wireless adapter (e.g. Intel AC/Broadcom/Realtek/Marvell etc.).
 
 ## How to download Quick Share
 If you want the latest Store version go [here](https://store.rg-adguard.net/), paste the [store link](https://www.microsoft.com/en-us/p/quick-share/9pctgdfxvzlj) of the app, click the checkmark, scroll down, download the one named SAMSUNGELECTRONICSCoLtd.SamsungQuickShare_xxxxxxxx_neutral_xxxxxxxxxxxxxxx.msixbundle (the only one that ends with .msixbundle), then open it and install it. You won't need to download every update like this, it'll automatically update from the Microsoft Store when there is a new version. Keep in mind that latest versions from the Store can contain patches to this method, so if you encounter any issue download [this older version here](https://mega.nz/file/9B4myBTS#iWj3krlMOrKTnTPfEw_qH93RoddJydzxpnPVeAgPKiQ).
