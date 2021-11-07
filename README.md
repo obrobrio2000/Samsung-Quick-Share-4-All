@@ -1,7 +1,7 @@
 # SamsungQuickShare4All
 This tiny batch script makes Samsung Quick Share working on non-Samsung Windows PCs by spoofing a registry value that the program checks when opening.
 
-# Usage
+## Usage
 Download the script [here](https://github.com/obrobrio2000/Samsung-Quick-Share-4-All/releases/download/v0.1.1/SamsungQuickShare4All.bat) and just run it (it'll ask for admin rights). You'll only need to run it once, after that it'll automatically launch itself after every startup/reboot.
 
 ## How to download Quick Share
