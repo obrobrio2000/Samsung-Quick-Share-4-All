@@ -18,6 +18,6 @@ Keep in mind that latest versions from the Store could contain patches to this m
 https://user-images.githubusercontent.com/62136803/137240369-9c77621b-19ea-4893-9c69-e9b03747d89e.mp4
 
 ## Disclaimer
-Keep in mind that Samsung could fix this any time. So, if it doesn't work, probably they have fixed it. However, as of 11/7/2021, I can confirm that it works perfectly (doesn't display the unsupported device error and file sharing works both sending and receiving). Also, I'm not responsible for any loss or damage.
+Keep in mind that Samsung could fix this any time. So, if it doesn't work, probably they have fixed it. However, as of 11/7/2021, I can confirm that it works perfectly (doesn't display the unsupported device error and file sharing works both sending and receiving), tested on Lenovo Yoga C940 with Intel Core i7-1065G7 and Intel AX201 wireless adapter. Also, I'm not responsible for any loss or damage.
 
 ## XDA thread [here](https://forum.xda-developers.com/t/samsung-quick-share-4-all-use-it-on-non-samsung-pcs.4347077/)
