@@ -1,3 +1,6 @@
+## Important update 2022-04-26:
+Read it [here](https://forum.xda-developers.com/t/samsung-quick-share-4-all-use-it-on-non-samsung-pcs.4347077/post-86802355).
+
 # SamsungQuickShare4All
 This tiny batch script makes Samsung Quick Share working on non-Samsung Windows PCs by spoofing a registry value that the program checks when opening.
 
